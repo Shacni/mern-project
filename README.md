@@ -2,7 +2,8 @@
 
 ## Project info
 
-**URL**: 
+**URL**: Live:http://localhost:8080/
+**URL**: Pitch:https://gamma.app/docs/Shacney-Hospital-Management-System-SHMS-m04luxncsbob16t
 
 **Use your preferred IDE**
 
